@@ -21,7 +21,7 @@
     right: 0;    transform: translateY(30%);">
       Hi Aliens!<br/>I'm NguyenTrong from the Earth.
   </div>
-<video src="./images/1.mp4" playsinline autoplay muted loop style="width:100%; opacity:0.5;   position: absolute;z-index: 0;">
+<video src="/images/1.mp4" playsinline autoplay muted loop style="width:100%; opacity:0.5;   position: absolute;z-index: 0;">
 </video>
 </div>
 
