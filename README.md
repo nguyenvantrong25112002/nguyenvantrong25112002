@@ -19,7 +19,7 @@
          " align="center">
 	<div class="greeting" style="position: absolute;z-index: 1;	width: 100%;height: 100%;    left: 0;
     right: 0;    transform: translateY(30%);">
-      Hi!<br/>I'm NguyenTrong from the Earth.
+      Hi!<br/>I'm Nguyen Van Trong.
   </div>
 <video src="images/1.mp4" playsinline autoplay muted loop style="width:100%; opacity:0.5;   position: absolute;z-index: 0;">
 </video>
